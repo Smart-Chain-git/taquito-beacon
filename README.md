@@ -1,1 +1,4 @@
-# Taquito Beacon Dapp Tutorial
+# Taquito Beacon Dapp
+
+npm install
+

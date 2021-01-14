@@ -1,5 +1,5 @@
 {
-  "name": "taquito-beacon-tutorial",
+  "name": "taquito-beacon",
   "version": "1.0.0",
   "description": "Tutorial to create a Tezos dapp with Taquito and the Beacon SDK",
   "main": "index.js",
